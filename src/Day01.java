@@ -1,5 +1,3 @@
-package se.altinum;
-
 class Day01 {
     static int captcha(String digits) {
 
